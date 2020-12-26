@@ -8,7 +8,7 @@
 2. من خلال خطوات فهمك لما تعلمناه بإنشاء واجهات باستعمال SwiftUI ستقوم بإنشاء هاتين الواجهتين
 
   
-<img width="300" src="" alt="gif"/>
+<img width="300" src="https://github.com/kuwaitcodes/swiftui-hw-1/blob/main/hw1.png" alt="gif"/>
 
 
 
